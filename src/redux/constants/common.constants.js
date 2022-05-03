@@ -1,0 +1,2 @@
+export const SET_ERROR_MESSAGE = 'SET_ERROR_MESSAGE';
+export const SET_AUTH_DATA = 'SET_AUTH_DATA';
